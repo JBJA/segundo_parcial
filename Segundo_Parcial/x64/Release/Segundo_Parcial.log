@@ -1,0 +1,9 @@
+﻿  Segundo_Parcial.cpp
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Segundo_Parcial\Segundo_Parcial\Producto.h(100,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Segundo_Parcial\Segundo_Parcial\Producto.h(99,13): warning C4101: 'fila': variable local sin referencia
+  Generando código
+  1 of 174 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Segundo_Parcial.vcxproj -> C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Segundo_Parcial\x64\Release\Segundo_Parcial.exe
